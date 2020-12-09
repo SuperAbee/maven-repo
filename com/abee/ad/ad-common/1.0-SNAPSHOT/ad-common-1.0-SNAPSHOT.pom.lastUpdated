@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 09 22:39:23 CST 2020
+https\://raw.github.com/SuperAbee/maven-repo/tree/snapshot/.error=Could not transfer artifact com.abee.ad\:ad-common\:pom\:1.0-SNAPSHOT from/to abee-maven-snapshot-repository (https\://raw.github.com/SuperAbee/maven-repo/tree/snapshot)\: raw.githubusercontent.com
+@default-abee-maven-snapshot-repository-https\://raw.githubusercontent.com/SuperAbee/maven-repo/.lastUpdated=1607524691987
+https\://raw.githubusercontent.com/SuperAbee/maven-repo/tree/snapshot/.error=Could not transfer artifact com.abee.ad\:ad-common\:pom\:1.0-SNAPSHOT from/to abee-maven-snapshot-repository (https\://raw.githubusercontent.com/SuperAbee/maven-repo/tree/snapshot)\: raw.githubusercontent.com
+https\://raw.githubusercontent.com/SuperAbee/snapshot/maven-repo/.error=Could not transfer artifact com.abee.ad\:ad-common\:pom\:1.0-SNAPSHOT from/to abee-maven-snapshot-repository (https\://raw.githubusercontent.com/SuperAbee/snapshot/maven-repo)\: raw.githubusercontent.com
+@default-abee-maven-snapshot-repository-https\://raw.githubusercontent.com/SuperAbee/snapshot/maven-repo/.lastUpdated=1607523549138
+https\://raw.githubusercontent.com/SuperAbee/maven-repo/snapshot/.error=Could not transfer artifact com.abee.ad\:ad-common\:pom\:1.0-SNAPSHOT from/to abee-maven-snapshot-repository (https\://raw.githubusercontent.com/SuperAbee/maven-repo/snapshot)\: raw.githubusercontent.com
+@default-abee-maven-snapshot-repository-https\://raw.github.com/SuperAbee/maven-repo/tree/snapshot/.lastUpdated=1607524763615
+@default-abee-maven-snapshot-repository-https\://raw.githubusercontent.com/SuperAbee/maven-repo/snapshot/.lastUpdated=1607523988625
+https\://raw.githubusercontent.com/SuperAbee/maven-repo/.error=Could not transfer artifact com.abee.ad\:ad-common\:pom\:1.0-SNAPSHOT from/to abee-maven-snapshot-repository (https\://raw.githubusercontent.com/SuperAbee/maven-repo)\: raw.githubusercontent.com
+@default-abee-maven-snapshot-repository-https\://raw.githubusercontent.com/SuperAbee/maven-repo/tree/snapshot/.lastUpdated=1607524741891
